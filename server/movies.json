@@ -1,30 +1,5 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
-      "Genres": [
-        "Crime",
-        "Drama"
-      ],
-      "Directors": [
-        "Andrew Niccol"
-      ],
-      "Writers": [
-        "Andrew Niccol"
-      ],
-      "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
-      ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
-    },
     "tt0167260": {
       "imdbID": "tt0167260",
       "Title": "The Lord of the Rings: The Return of the King",
@@ -79,6 +54,170 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
       "imdbRating": 6.9
+    },
+    "tt0133093": {
+      "imdbID": "tt0133093",
+      "Title": "The Matrix",
+      "Released": "31 Mar 1999",
+      "Runtime": 136,
+      "Genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "Writers": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+      ],
+      "Actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Metascore": 73,
+      "imdbRating": 8.7
+    },
+    "tt0903624": {
+      "imdbID": "tt0903624",
+      "Title": "The Hobbit: An Unexpected Journey",
+      "Released": "14 Dec 2012",
+      "Runtime": 169,
+      "Genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Peter Jackson"
+      ],
+      "Writers": [
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Peter Jackson"
+      ],
+      "Actors": [
+        "Martin Freeman",
+        "Ian McKellen",
+        "Richard Armitage"
+      ],
+      "Plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 58,
+      "imdbRating": 7.8
+    },
+    "tt1170358": {
+      "imdbID": "tt1170358",
+      "Title": "The Hobbit: The Desolation of Smaug",
+      "Released": "13 Dec 2013",
+      "Runtime": 161,
+      "Genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Peter Jackson"
+      ],
+      "Writers": [
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Peter Jackson"
+      ],
+      "Actors": [
+        "Ian McKellen",
+        "Martin Freeman",
+        "Richard Armitage"
+      ],
+      "Plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim the Lonely Mountain, their homeland, from the dragon Smaug.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Metascore": 66,
+      "imdbRating": 7.8
+    },
+    "tt2310332": {
+      "imdbID": "tt2310332",
+      "Title": "The Hobbit: The Battle of the Five Armies",
+      "Released": "17 Dec 2014",
+      "Runtime": 144,
+      "Genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Peter Jackson"
+      ],
+      "Writers": [
+        "Fran Walsh",
+        "Philippa Boyens",
+        "Peter Jackson"
+      ],
+      "Actors": [
+        "Ian McKellen",
+        "Martin Freeman",
+        "Richard Armitage"
+      ],
+      "Plot": "Bilbo Baggins and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+      "Metascore": 59,
+      "imdbRating": 7.4
+    },
+    "tt0077687": {
+      "imdbID": "tt0077687",
+      "Title": "The Hobbit",
+      "Released": "27 Nov 1977",
+      "Runtime": 77,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "Directors": [
+        "Jules Bass",
+        "Arthur Rankin Jr."
+      ],
+      "Writers": [
+        "J.R.R. Tolkien",
+        "Romeo Muller"
+      ],
+      "Actors": [
+        "Orson Bean",
+        "John Huston",
+        "Theodore Gottlieb"
+      ],
+      "Plot": "A homebody hobbit in Middle Earth gets talked into joining a quest with a group of dwarves to recover their treasure from a dragon.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTJhODI1YjMtYjc0Ni00YTcyLTgxNjYtMzYzNDllZWI1ZTI0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 6.7
+    },
+    "tt0395578": {
+      "imdbID": "tt0395578",
+      "Title": "The Hobbit",
+      "Released": "11 Nov 2003",
+      "Runtime": 0,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "J.R.R. Tolkien (characters)"
+      ],
+      "Actors": [
+        "Michael Beattie",
+        "Tom Kane",
+        "Jim Ward",
+        "Clive Revill"
+      ],
+      "Plot": "The little hobbit Bilbo Baggins gets a chance to become an important companion of wizard Gandalf and thirteen dwarves in their big adventure.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyMDBlMjAtMTU2My00ZjBkLWIyNzYtZWIwZjY1Y2ZlYjQxXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 7.4
     }
   },
   "jane": {
@@ -166,6 +305,62 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    },
+    "tt2294629": {
+      "imdbID": "tt2294629",
+      "Title": "Frozen",
+      "Released": "27 Nov 2013",
+      "Runtime": 102,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "Directors": [
+        "Chris Buck",
+        "Jennifer Lee"
+      ],
+      "Writers": [
+        "Jennifer Lee",
+        "Hans Christian Andersen",
+        "Chris Buck"
+      ],
+      "Actors": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Jonathan Groff"
+      ],
+      "Plot": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
+      "Metascore": 75,
+      "imdbRating": 7.4
+    },
+    "tt0816692": {
+      "imdbID": "tt0816692",
+      "Title": "Interstellar",
+      "Released": "07 Nov 2014",
+      "Runtime": 169,
+      "Genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 74,
+      "imdbRating": 8.7
     }
   }
 }

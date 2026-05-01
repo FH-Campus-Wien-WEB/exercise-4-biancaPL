@@ -84,18 +84,27 @@ function loadMovies(genre) {
 }
 
 function addMovie(imdbID) {
-  fetch(`/movies/${imdbID}`, { method: 'PUT' })
+  return fetch(`/movies/${imdbID}`, { method: 'PUT' })
     .then(response => {
       if (response.status === 201) {
         // Task 2.2: Make sure to remove the added movie from the search results to avoid
-        // giving the user the option to add it again.
+        // giving the user the option to add it again. 
     
         loadMovies();
         updateGenres();
+
+        return response;
+
       } else if (response.status === 200) {
         alert(messages.movieAlreadyInCollection);
+
+        return response;
+
       } else {
         throw new Error(`HTTP ${response.status}`);
+        
+        
+
       }
     })
     .catch(error => {
@@ -137,6 +146,34 @@ function searchMovies(query) {
       // include an "Add" button for each result that calls `addMovie(imdbID)` when clicked.
       // There is a second part to this task, in `addMovie`
 
+      if (results.length === 0) {
+  new ElementBuilder("p")
+    .text(messages.noResultsFound)
+    .appendTo(resultsDiv);
+  return;
+}
+
+results.forEach(movie => {
+  const row = new ElementBuilder("div").appendTo(resultsDiv);
+
+  new ElementBuilder("span")
+    .text(`${movie.Title} (${movie.Year})`)
+    .appendTo(row);
+
+  new ButtonBuilder("Add")
+    .onclick(() => {
+addMovie(movie.imdbID).then(response => {
+      if (response && response.status === 201) {
+        row.element.remove(); // nur wenn neu hinzugefügt
+      }
+    });
+    })
+    .appendTo(row);
+});
+
+
+
+
     })
     .catch(error => {
       console.error('Search failed:', error);
@@ -168,6 +205,18 @@ window.onload = function () {
       // Task 1.2: Render a user greeting to `#userGreeting` 
       // using `firstName`, `lastName`, and the server-provided
       // login timestamp.
+
+      greetingElement.textContent =
+    `Hi ${currentSession.firstName} ${currentSession.lastName}, du hast dich am ` +
+    new Date(currentSession.loginTime).toLocaleDateString("de-DE", {
+      year: "numeric", month: "long", day: "2-digit"
+    }) +` um ` +
+    new Date(currentSession.loginTime).toLocaleTimeString("de-DE", {
+      hour: "2-digit", minute: "2-digit"
+    }) +` angemeldet.`;
+
+
+      
     } else {
       greetingElement.textContent = messages.loggedOutGreeting;
     }
@@ -212,9 +261,54 @@ window.onload = function () {
     e.preventDefault();
     const formData = new FormData(e.target);
 
+
+
+
+
     // Task 1.1: Implement the login submit flow to call `POST /login` 
     // with username and password, handle errors, save the response 
     // into `currentSession`, then call `updateUI()` and `loadMovies()`.
+
+    const username = document.getElementById('username').value;
+    const password = document.getElementById('password').value;
+
+    fetch("/login", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({ username, password })
+    })
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(messages.loginFailed);
+      }
+      return response.json();
+    })
+    .then(data => {
+      currentSession = data;
+      document.getElementById('loginDialog').close();
+      updateUI();
+      loadMovies();
+    })
+    .catch(err => {
+      alert(messages.loginFailed);
+      console.error(err);
+    });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   });
 
@@ -223,6 +317,14 @@ window.onload = function () {
   });
 
   // Search dialog
+
+document.getElementById('searchForm').addEventListener('submit', (e) => {
+  e.preventDefault();
+
+  const query = document.getElementById('query').value;
+  searchMovies(query);
+});
+ 
   document.getElementById('addMoviesBtn').addEventListener('click', () => {
     const searchForm = document.getElementById('searchForm');
     searchForm.reset();
@@ -230,11 +332,11 @@ window.onload = function () {
     document.getElementById('searchDialog').showModal();
   });
 
-  document.getElementById('searchForm').addEventListener('submit', (e) => {
-    e.preventDefault();
-    const query = document.getElementById('query').value;
-    searchMovies(query);
-  });
+ // document.getElementById('searchForm').addEventListener('submit', (e) => {
+    //e.preventDefault();
+   // const query = document.getElementById('query').value;
+   // searchMovies(query);
+  //});
 
   document.getElementById('cancelSearch').addEventListener('click', () => {
     document.getElementById('searchDialog').close();
