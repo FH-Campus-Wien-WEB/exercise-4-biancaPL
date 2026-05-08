@@ -1,6 +1,6 @@
 import { ButtonBuilder, ElementBuilder, MovieBuilder } from "./builders.js";
 
-// Externalized message strings
+// Externalized message strings and current session state 
 const messages = {
   dataLoadError: 'Daten konnten nicht geladen werden, Status',
   movieAlreadyInCollection: 'Film bereits in der Sammlung.',
@@ -12,7 +12,7 @@ const messages = {
   loginFailed: 'Login failed'
 };
 
-let currentSession = null;
+let currentSession = null; // um session daten nach login zu halten
 
 function updateGenres() {
   const header = document.querySelector('nav>h2');
@@ -96,7 +96,7 @@ function addMovie(imdbID) {
         return response;
 
       } else if (response.status === 200) {
-        alert(messages.movieAlreadyInCollection);
+        alert(messages.movieAlreadyInCollection); 
 
         return response;
 

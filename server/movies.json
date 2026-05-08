@@ -1,168 +1,5 @@
 {
   "joe": {
-    "tt0167260": {
-      "imdbID": "tt0167260",
-      "Title": "The Lord of the Rings: The Return of the King",
-      "Released": "2003-12-16",
-      "Runtime": 201,
-      "Genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
-      ],
-      "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "J.R.R. Tolkien",
-        "Fran Walsh",
-        "Philippa Boyens"
-      ],
-      "Actors": [
-        "Elijah Wood",
-        "Viggo Mortensen",
-        "Ian McKellen"
-      ],
-      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 94,
-      "imdbRating": 9
-    },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
-      "Genres": [
-        "Adventure",
-        "Drama",
-        "Thriller"
-      ],
-      "Directors": [
-        "Peter Brook"
-      ],
-      "Writers": [
-        "William Golding",
-        "Peter Brook"
-      ],
-      "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
-      ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
-      "imdbRating": 6.9
-    },
-    "tt0133093": {
-      "imdbID": "tt0133093",
-      "Title": "The Matrix",
-      "Released": "31 Mar 1999",
-      "Runtime": 136,
-      "Genres": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "Directors": [
-        "Lana Wachowski",
-        "Lilly Wachowski"
-      ],
-      "Writers": [
-        "Lilly Wachowski",
-        "Lana Wachowski"
-      ],
-      "Actors": [
-        "Keanu Reeves",
-        "Laurence Fishburne",
-        "Carrie-Anne Moss"
-      ],
-      "Plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
-      "Metascore": 73,
-      "imdbRating": 8.7
-    },
-    "tt0903624": {
-      "imdbID": "tt0903624",
-      "Title": "The Hobbit: An Unexpected Journey",
-      "Released": "14 Dec 2012",
-      "Runtime": 169,
-      "Genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "Fran Walsh",
-        "Philippa Boyens",
-        "Peter Jackson"
-      ],
-      "Actors": [
-        "Martin Freeman",
-        "Ian McKellen",
-        "Richard Armitage"
-      ],
-      "Plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-      "Metascore": 58,
-      "imdbRating": 7.8
-    },
-    "tt1170358": {
-      "imdbID": "tt1170358",
-      "Title": "The Hobbit: The Desolation of Smaug",
-      "Released": "13 Dec 2013",
-      "Runtime": 161,
-      "Genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "Fran Walsh",
-        "Philippa Boyens",
-        "Peter Jackson"
-      ],
-      "Actors": [
-        "Ian McKellen",
-        "Martin Freeman",
-        "Richard Armitage"
-      ],
-      "Plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim the Lonely Mountain, their homeland, from the dragon Smaug.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_QL75_UY562_CR0,0,380,562_.jpg",
-      "Metascore": 66,
-      "imdbRating": 7.8
-    },
-    "tt2310332": {
-      "imdbID": "tt2310332",
-      "Title": "The Hobbit: The Battle of the Five Armies",
-      "Released": "17 Dec 2014",
-      "Runtime": 144,
-      "Genres": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "Fran Walsh",
-        "Philippa Boyens",
-        "Peter Jackson"
-      ],
-      "Actors": [
-        "Ian McKellen",
-        "Martin Freeman",
-        "Richard Armitage"
-      ],
-      "Plot": "Bilbo Baggins and company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDE3OTQ3MF5BMl5BanBnXkFtZTgwODczMTg4MjE@._V1_QL75_UX380_CR0,1,380,562_.jpg",
-      "Metascore": 59,
-      "imdbRating": 7.4
-    },
     "tt0077687": {
       "imdbID": "tt0077687",
       "Title": "The Hobbit",
@@ -191,33 +28,228 @@
       "Metascore": 0,
       "imdbRating": 6.7
     },
-    "tt0395578": {
-      "imdbID": "tt0395578",
-      "Title": "The Hobbit",
-      "Released": "11 Nov 2003",
-      "Runtime": 0,
+    "tt1630029": {
+      "imdbID": "tt1630029",
+      "Title": "Avatar: The Way of Water",
+      "Released": "16 Dec 2022",
+      "Runtime": 192,
       "Genres": [
+        "Animation",
         "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron",
+        "Rick Jaffa",
+        "Amanda Silver"
+      ],
+      "Actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 67,
+      "imdbRating": 7.5
+    },
+    "tt0234458": {
+      "imdbID": "tt0234458",
+      "Title": "Pettson & Findus - Katten och gubbens år",
+      "Released": "25 Dec 1999",
+      "Runtime": 75,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "Directors": [
+        "Albert Hanan Kaminski"
+      ],
+      "Writers": [
+        "Torbjörn Jansson",
+        "Sven Nordqvist"
+      ],
+      "Actors": [
+        "Tommy Karlsen",
+        "Kalle Lundberg",
+        "Tord Peterson"
+      ],
+      "Plot": "Pettson and Findus remember their adventures while waiting for the storm to pass.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4ODI4MzA4OF5BMl5BanBnXkFtZTcwOTAyNjkxMQ@@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 6.5
+    },
+    "tt4764566": {
+      "imdbID": "tt4764566",
+      "Title": "Pettersson und Findus 2 - Das schönste Weihnachten überhaupt",
+      "Released": "03 Nov 2016",
+      "Runtime": 80,
+      "Genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "Directors": [
+        "Ali Samadi Ahadi"
+      ],
+      "Writers": [
+        "Sven Nordqvist",
+        "Thomas Springer"
+      ],
+      "Actors": [
+        "Ali Samadi Ahadi",
+        "Ali N. Askin",
+        "Petra Beck"
+      ],
+      "Plot": "Pettson promised Findus they would have the best christmas ever this year, but then everything goes wrong. Findus is afraid that Christmas is going to be cancelled at all. So he tries to get help on his own.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxNjQ3ODItNmU0YS00NmViLWJlYzQtYjlkMDlhOTBlM2E5XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 5.5
+    },
+    "tt0268531": {
+      "imdbID": "tt0268531",
+      "Title": "Pettson och Findus - Kattonauten",
+      "Released": "27 Oct 2000",
+      "Runtime": 80,
+      "Genres": [
+        "Animation",
+        "Family"
+      ],
+      "Directors": [
+        "Torbjörn Jansson",
+        "Albert Hanan Kaminski",
+        "Árpád Szabó"
+      ],
+      "Writers": [
+        "Torbjörn Jansson",
+        "Sven Nordqvist"
+      ],
+      "Actors": [
+        "Tord Peterson",
+        "Kalle Lundberg",
+        "Mona Seilitz"
+      ],
+      "Plot": "The cat Findus decides he wants to write a letter to the King, because Pettson says that kittens don't wash or pay rent. While Findus waits for a response, he and the old man decide to go on a trip.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwOTI4NDc4Ml5BMl5BanBnXkFtZTgwMjE2NTAzMTE@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 6.1
+    },
+    "tt2129997": {
+      "imdbID": "tt2129997",
+      "Title": "Despicable Me: Minion Madness",
+      "Released": "14 Dec 2010",
+      "Runtime": 12,
+      "Genres": [
+        "Animation",
+        "Short",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Chris Renaud"
+      ],
+      "Writers": [
+        "Pierre Coffin",
+        "Brett Hoffman"
+      ],
+      "Actors": [
+        "Miranda Cosgrove",
+        "Dana Gaier",
+        "Elsie Fisher",
+        "Pierre Coffin"
+      ],
+      "Plot": "Three new mini-movies from the creators of Despicable Me. Orientation Day: Three freshly cloned minions go through the wacky orientation process at the evil laboratories of Gru. Home ...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjM2MDUxMV5BMl5BanBnXkFtZTgwMDM0NjA2MDE@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 7.6
+    },
+    "tt5113044": {
+      "imdbID": "tt5113044",
+      "Title": "Minions: The Rise of Gru",
+      "Released": "01 Jul 2022",
+      "Runtime": 87,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "Directors": [
+        "Kyle Balda",
+        "Brad Ableson",
+        "Jonathan del Val"
+      ],
+      "Writers": [
+        "Matthew Fogel",
+        "Brian Lynch"
+      ],
+      "Actors": [
+        "Steve Carell",
+        "Pierre Coffin",
+        "Alan Arkin"
+      ],
+      "Plot": "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTAzMTkyNmQtNTMzZS00MTM1LWI4YzEtMjVlYjU0ZWI5Y2IzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 56,
+      "imdbRating": 6.5
+    },
+    "tt0926084": {
+      "imdbID": "tt0926084",
+      "Title": "Harry Potter and the Deathly Hallows: Part 1",
+      "Released": "19 Nov 2010",
+      "Runtime": 146,
+      "Genres": [
         "Adventure",
         "Family",
         "Fantasy"
       ],
       "Directors": [
-        "N/A"
+        "David Yates"
       ],
       "Writers": [
-        "J.R.R. Tolkien (characters)"
+        "Steve Kloves",
+        "J.K. Rowling"
       ],
       "Actors": [
-        "Michael Beattie",
-        "Tom Kane",
-        "Jim Ward",
-        "Clive Revill"
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint"
       ],
-      "Plot": "The little hobbit Bilbo Baggins gets a chance to become an important companion of wizard Gandalf and thirteen dwarves in their big adventure.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQyMDBlMjAtMTU2My00ZjBkLWIyNzYtZWIwZjY1Y2ZlYjQxXkEyXkFqcGdeQXVyOTQxNzM2MjY@._V1_SX300.jpg",
+      "Plot": "Harry Potter is tasked with the dangerous and seemingly impossible task of locating and destroying Voldemort's remaining Horcruxes. Harry must rely on Ron and Hermione more than ever, but dark forces threaten to tear them apart.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg",
+      "Metascore": 65,
+      "imdbRating": 7.7
+    },
+    "tt16116174": {
+      "imdbID": "tt16116174",
+      "Title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+      "Released": "01 Jan 2022",
+      "Runtime": 102,
+      "Genres": [
+        "Documentary",
+        "Family"
+      ],
+      "Directors": [
+        "Casey Patterson",
+        "Joe Pearlman",
+        "Eran Creevy"
+      ],
+      "Writers": [
+        "N/A"
+      ],
+      "Actors": [
+        "Stephen Fry",
+        "Alfred Enoch",
+        "Ralph Fiennes"
+      ],
+      "Plot": "Cast and crew members from all \"Harry Potter\" films reunite in a retrospective special to celebrate the 20th anniversary of Harry Potter and the Sorcerer's Stone (2001).",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTNhNjg1NWItZThkNC00N2JiLTkzOTgtNzZjYzAyYTQ4OTEwXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 0,
-      "imdbRating": 7.4
+      "imdbRating": 8
     }
   },
   "jane": {
